@@ -27,5 +27,5 @@ A fun and interactive 6x6 memory card game where players match pairs of cards. T
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   git clone https://https://github.com/Pooja-veerabhadra/memory-card-game
    cd memory-card-game
